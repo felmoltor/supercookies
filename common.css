@@ -1,0 +1,66 @@
+body {
+	background-color: #F8F4F0;
+}
+
+table.Details {
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+
+table.Details td {
+    border: 1px solid black;
+}
+
+table.submitTable {
+	border: 0px;
+}
+table.submitTable td {
+	border: 0px;
+}
+th {
+	padding: 5px;
+	text-align: left;
+	background-color: #124421;
+	color: white;
+}
+td.normalconn {
+	font-weight: bold;
+}
+td.normalheader {
+	font-weight: bold;
+	color: green;
+	background-color: #F6F1F9;
+}
+td.alertheader {
+	font-weight: bold;
+	color: red;
+}
+div.testResult {
+	padding-top: 20px;
+}
+
+.resultTable {
+	border: 0px;
+}
+
+.alertMsg{
+	font-size: 200%;
+	color: red;
+	padding-left: 10px;
+}
+.noalertMsg{
+	font-size: 200%;
+	color: green;
+	padding-left: 10px;
+}
+
+.nocaptcha {
+    color: red;
+}
+
+.agradecimiento {
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+
+}
