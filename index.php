@@ -254,7 +254,7 @@
                 <td>Acepto que la información presentada anteriormente se almacene en un fichero para ayudar a la lucha contra las "Supercookies" (<a href="https://www.accessnow.org/page/-/AIBT-Report.pdf">más información</a>)</td>
                 </tr>
                 <tr>
-                <td align="center" colspan=2><input disabled="disabled" id="submitbutton" type="submit" value="Almacenar la informacion de seguimiento"/></td>
+                <td align="center" colspan=2><input disabled="disabled" id="submitbutton" class="bigbutton" type="submit" value="Almacenar la informacion de seguimiento"/></td>
                 </tr>
             </table>
        </form>
